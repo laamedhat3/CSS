@@ -1,17 +1,18 @@
 # CSS
 <!-- from1to4 -->
-<!-- task1-->
-1. control in the class which its name is title.
+
+<title>task1</title>
+<p>1. control in the class which its name is title.
 2. control in the id which its name is nav.
 3. control all divs in the page.
-4. control in the h2.
+4. control in the h2.</p>
 
- <!--task2-->
+<title>task2</title>
  1.external style.
  2.internal style.
  3.inline style.
 
-<!--task5-->
+<title>task5</title>
 1.valid.
 2.valid.
 3.not valid.
@@ -20,7 +21,7 @@
 6.valid.
 7.valid.
 
-<!--task6-->
+<title>task6</title>
 1.bad.
 2.bad.
 3.good.
