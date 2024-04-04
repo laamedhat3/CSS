@@ -1,0 +1,26 @@
+div{
+    width: 400px;
+    background-color:rgb(220, 218, 215);
+    padding: 10px;
+    margin: 15px;
+    outline: 10px rgb(220, 218, 215) solid;
+}
+
+.element-1{
+    border-left-style: solid;
+    border-left-color: rgb(184, 46, 55);
+    border-left-width: 3px;
+}
+
+.element-2{
+    border-left-style: solid;
+    border-left-color: rgb(120, 184, 140);
+    border-left-width: 3px;
+    visibility: hidden;
+}
+
+.element-3{
+    border-left-style: solid;
+    border-left-color: rgb(101, 206, 187);
+    border-left-width: 3px;
+}
