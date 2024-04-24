@@ -1,0 +1,22 @@
+div{
+    text-transform: capitalize;
+    text-align: center;
+
+}
+
+.one{
+   font-weight: 300;
+   font-family:" open sans";
+   font-style:italic;
+} 
+
+.two{
+    font-weight: 700;
+    font-family: "cairo";
+}
+
+.three{
+    font-weight: 400;
+    font-family: "gomhuria";
+   
+}

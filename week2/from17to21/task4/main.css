@@ -1,0 +1,15 @@
+a{   text-align: center;
+    color: aliceblue;
+   text-transform: capitalize;
+   text-decoration: none;
+    padding:5px;
+    background-color: rgb(38, 123, 95);
+    border-bottom: 2px solid rgb(22, 96, 22);
+   display:inline-block;
+ 
+  width: 50;
+  height: 20px;
+ 
+
+
+}

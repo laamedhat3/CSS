@@ -1,0 +1,12 @@
+div{
+    padding:10px;
+    border:2px solid green;
+    margin: 10px;
+}
+p{  
+    background-color: #c0b8b8;
+    text-transform: capitalize ;
+    border:inherit;
+    text-align: center;
+    padding: inherit;
+}

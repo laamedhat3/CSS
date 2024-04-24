@@ -1,0 +1,29 @@
+.img{
+    width:40px;
+    height:40px;
+}
+table{
+    margin: auto;
+    text-transform: capitalize;
+    text-align: center;
+    width: 700px;
+    border-bottom:2px solid rgb(24, 211, 170) ;
+}
+thead{
+    background-color: rgb(43, 39, 39);
+    color: white;
+}
+tbody{
+    background-color: #eee;
+}
+.view{
+    display: inline-block;
+    background-color: rgb(74, 137, 203);
+    margin-right:5px ;
+    padding: 5px;
+}
+.delete{
+    display: inline-block;
+    background-color: rgb(234, 42, 118);
+    padding: 5px;
+}

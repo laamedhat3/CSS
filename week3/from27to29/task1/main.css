@@ -1,0 +1,39 @@
+.parent{
+    width:800px;
+    background-color: #eeee;
+    margin: 10px auto;
+}
+.parent div{
+    background-color: #ddd;
+    text-align: center;
+    text-transform: capitalize;
+    padding:10px 0px ;
+    
+}
+
+.full{
+    
+    width: calc((100%-30px)/1);
+    margin: 15px ;
+   float: left;
+}
+.one {
+    width:calc((100% - 60px) /3);
+    margin: 15px 7.5px 0px 7.5px;
+    float: left;
+}
+.two{
+    width:calc((100% - 45px) /2);
+    margin: 15px 7.5px 0px 7.5px;
+    float: left;
+} 
+.three{
+    width:calc((100% - 75px) /4);
+    margin: 15px 7.5px 0px 7.5px;
+    float: left;
+    
+}
+.clear{
+    clear: both;
+}
+ 
